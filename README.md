@@ -1,5 +1,5 @@
-# IBS Store
+# LBS Store
 
-Tienda online de IBS Store — hardware, periféricos y accesorios gamer.
+Tienda online de LBS Store — hardware, periféricos y accesorios gamer.
 
 Proyecto en desarrollo.
